@@ -46,22 +46,53 @@ The goal was to simulate real-world scenarios where users access the internet fr
 
 ### 2. Azure Environment Setup
 - Created a **Resource Group**
+<p align="center">
+  <img src="img/1. Resource Group.png"  width="900">
+</p>
 - Deployed a **Windows 10 Virtual Machine** in a different region  
-
+<p align="center">
+  <img src="img/4. VM Korea.png"  width="900">
+</p
 📎 Example: VM deployed outside my original location (different country) :contentReference[oaicite:1]{index=1}  
+>
 
 ---
 
 ### 3. Remote Access
 - Connected to the VM using **Remote Desktop (RDP)**
+<p align="center">
+  <img src="img/5. RDP to VM.png"  width="900">
+</p>
+<p align="center">
+  <img src="img/6. Windows PRO VM.png"  width="900">
+</p>
 - Verified new public IP from within the VM  
-
+<p align="center">
+  <img src="img/7. Windows Pro Location.png"  width="900">
+</p>
 ---
 
 ### 4. VPN Configuration
-- Installed **ProtonVPN** inside the VM  
+<p align="center">
+  <img src="img/8. Proton VPN Signin.png"  width="900">
+</p>
+- Installed **ProtonVPN** inside the VM
+<p align="center">
+  <img src="img/9. Protonvpn Download.png"  width="900">
+</p>
+<p align="center">
+  <img src="img/10. Download VPN Successful.png"  width="900">
+</p>
+<p align="center">
+  <img src="img/11. VPN Proton Signin.png"  width="900">
+</p>
+<p align="center">
+  <img src="img/12. Proton vpn gui.png"  width="900">
+</p>
 - Connected to a VPN server in another country (e.g., Japan)  
-
+<p align="center">
+  <img src="img/13. Connect to VPN Server .png"  width="900">
+</p>
 📎 VPN connection step :contentReference[oaicite:2]{index=2}  
 
 ---
@@ -73,13 +104,25 @@ The goal was to simulate real-world scenarios where users access the internet fr
 | Azure VM | Different region (e.g., Korea) |
 | VPN Enabled | Third region (e.g., Japan) |
 
+<p align="center">
+  <img src="img/14. WhatsMyIpAddress.png"  width="900">
+</p>
 ---
 
 ### 6. Web Behavior Analysis
 Tested websites like:
-- Google  
+- Google
+<p align="center">
+  <img src="img/15. Google.com.png"  width="900">
+</p
 - Disney  
+<p align="center">
+  <img src="img/16. Disney.com.png"  width="900">
+</p
 - TikTok  
+<p align="center">
+  <img src="img/17. Tiktok.com.png"  width="900">
+</p
 
 Observed:
 - Language changes  
