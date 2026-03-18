@@ -19,15 +19,6 @@ The goal was to simulate real-world scenarios where users access the internet fr
 
 ---
 
-## Skills Gained
-- Microsoft Azure (Virtual Machines, Resource Groups)  
-- Remote Desktop (RDP) connectivity  
-- VPN configuration and usage (ProtonVPN)  
-- IP address analysis and geolocation tracking  
-- Network behavior observation across regions  
-
----
-
 ## Technologies Used
 - Microsoft Azure  
 - Windows 10 Virtual Machine  
