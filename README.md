@@ -1,7 +1,9 @@
 # Azure VPN & IP Behavior Analysis Lab
+
 <p align="center">
   <img src="img/vpnproton.jpg" alt="Azure VPN Lab Cover" width="900">
 </p>
+
 ## Overview
 This project demonstrates how VPNs affect public IP addresses, geolocation, and web browsing behavior using Microsoft Azure and ProtonVPN.
 
