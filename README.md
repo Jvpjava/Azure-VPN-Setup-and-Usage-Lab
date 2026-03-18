@@ -114,15 +114,15 @@ Tested websites like:
 - Google
 <p align="center">
   <img src="img/15. Google.com.png"  width="900">
-</p
+</p>
 - Disney  
 <p align="center">
   <img src="img/16. Disney.com.png"  width="900">
-</p
+</p>
 - TikTok  
 <p align="center">
   <img src="img/17. Tiktok.com.png"  width="900">
-</p
+</p>
 
 Observed:
 - Language changes  
