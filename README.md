@@ -1,5 +1,7 @@
 # Azure VPN & IP Behavior Analysis Lab
-
+<p align="center">
+  <img src="img/vpnproton.jpg" alt="Azure VPN Lab Cover" width="900">
+</p>
 ## Overview
 This project demonstrates how VPNs affect public IP addresses, geolocation, and web browsing behavior using Microsoft Azure and ProtonVPN.
 
@@ -41,6 +43,11 @@ The goal was to simulate real-world scenarios where users access the internet fr
 - Recorded IP and location details  
 
 📎 Reference: Initial IP verification step :contentReference[oaicite:0]{index=0}  
+
+<p align="center">
+  <img src="img/2. LocalHost IP Address.png"  width="900">
+</p>
+
 
 ---
 
