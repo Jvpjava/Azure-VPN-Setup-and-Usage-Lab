@@ -35,8 +35,6 @@ The goal was to simulate real-world scenarios where users access the internet fr
   - https://whatismyipaddress.com  
 - Recorded IP and location details  
 
-📎 Reference: Initial IP verification step :contentReference[oaicite:0]{index=0}  
-
 <p align="center">
   <img src="img/2. LocalHost IP Address.png"  width="900">
 </p>
@@ -52,9 +50,8 @@ The goal was to simulate real-world scenarios where users access the internet fr
 - Deployed a **Windows 10 Virtual Machine** in a different region  
 <p align="center">
   <img src="img/4. VM Korea.png"  width="900">
-</p
-📎 Example: VM deployed outside my original location (different country) :contentReference[oaicite:1]{index=1}  
->
+</p>
+
 
 ---
 
@@ -93,7 +90,6 @@ The goal was to simulate real-world scenarios where users access the internet fr
 <p align="center">
   <img src="img/13. Connect to VPN Server .png"  width="900">
 </p>
-📎 VPN connection step :contentReference[oaicite:2]{index=2}  
 
 ---
 
@@ -129,14 +125,10 @@ Observed:
 - Region-specific content  
 - Different URLs and layouts  
 
-📎 Example behavior change instructions :contentReference[oaicite:3]{index=3}  
-
 ---
 
 ### 7. Cleanup
 - Deleted Azure Resource Group to avoid unnecessary costs  
-
-📎 Cleanup step :contentReference[oaicite:4]{index=4}  
 
 ---
 
